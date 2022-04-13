@@ -1,0 +1,57 @@
+h1 {
+
+    color: blue;
+    font-style: italic;
+}
+
+hr {
+ 
+    color: red;
+    border-style: double;
+
+
+}
+
+h2 {
+
+   color: darkgoldenrod;
+   font-style: inherit;
+
+}
+
+h3 {
+
+    color: darkgoldenrod;
+    font-style: inherit;
+ 
+ }
+
+
+ h4 {
+
+    color: darkgoldenrod;
+    font-style: inherit;
+ 
+ }
+
+
+ h5 {
+
+    color: darkgoldenrod;
+    font-style: inherit;
+ 
+ }
+
+
+
+ div {
+
+    border: 10px solid #3EC483;
+    background: #5DEAA8;
+    height: 1000px;
+    width: 1280px;
+    padding: 10px;
+    margin: 10px;
+
+ }
+
